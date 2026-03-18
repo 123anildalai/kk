@@ -4,4 +4,4 @@ opencv-python
 textblob
 pandas
 requests
-gunicorn
+waitress
